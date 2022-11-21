@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Winnie
 - 👀 I’m interested in data science and using data to draw insights that can make an impact! 
 - 🎓 I'm a graduate from [BrainStation's Data Science Bootcamp](https://brainstation.io/course/online/remote-data-science-bootcamp)
-- 💻 I worked at Oooh, a startup founded by xTwitch and xDisney execs and I'm currently looking for my second position! 
+- 💻 I worked at a startup called Oooh and now I'm looking for my second position! 
 
 **Check out my projects:**
 - [Predicting the Sentiment of Board Game Reviews using NLP](https://github.com/winniez98/boardgame_sentiment_predictor)
